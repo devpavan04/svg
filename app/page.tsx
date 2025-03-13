@@ -1,4 +1,4 @@
-import Box from "@/app/components/box";
+import Box from '@/app/components/box';
 
 export default function Home() {
   return (
